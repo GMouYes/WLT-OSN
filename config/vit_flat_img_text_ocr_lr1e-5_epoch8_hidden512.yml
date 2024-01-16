@@ -1,0 +1,34 @@
+seed:   1
+batch_size: 8
+num_workers:    2
+# lr: 4.0e-4 # careful with format or it will read as str
+cv: 1
+rerun:  1
+use_cuda:   true
+clip_grad:  10.0
+gamma:  0.95
+image_pad_length:   4
+# hidden_dim: 1024
+use_desc:   false
+use_ocr:    true
+use_image:  true
+use_synthetic: false
+weighted_0: 1.0
+weighted_1: 10.0
+weighted_loss: true
+
+dataPath:   "../../data/"
+textPath:   ".csv"
+imagePath:  "../../r1_r2_r3_images/"
+num_classes:    2
+outputPath: "../../output/"
+modelPath:  "model.pkl"
+resultPath: "result.npy"
+lossPath:   "loss.pdf"
+configWritePath:    "config.yml"
+loggerConfigPath:   "../../config/logger.conf"
+
+grid_search:
+    hidden_dim: [512]
+    lr: [1.0e-5]
+    epoch:  [8]
