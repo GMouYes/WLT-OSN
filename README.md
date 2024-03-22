@@ -1,5 +1,7 @@
-# WLT_Review
-Anonymous link for wlt research blind review
+# WLT-OSN
+Link for ICWSM 2024 paper: Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Related Product Sales Promotion Posts
+
+Sharing code and dataset to encourage future work. More to come in the following days.
 
 ## Folders
 ### Data
