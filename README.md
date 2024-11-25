@@ -1,5 +1,5 @@
 # WLT-OSN
-Link for ICWSM 2024 paper: Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Related Product Sales Promotion Posts
+Link for ICWSM 2024 paper: [Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Related Product Sales Promotion Posts](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/ICWSM/article/view/31375&hl=en&sa=T&oi=gsb&ct=res&cd=0&d=10571559063033688816&ei=WQFFZ63eCu-Vy9YPubC3QQ&scisig=AFWwaebZNg9SKVtOi02nv5f1YyDk)
 
 Sharing code and dataset to encourage future work. 
 
