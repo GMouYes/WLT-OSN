@@ -1,7 +1,19 @@
 # WLT-OSN
 Link for ICWSM 2024 paper: Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Related Product Sales Promotion Posts
 
-Sharing code and dataset to encourage future work. More to come in the following days.
+Sharing code and dataset to encourage future work. 
+
+## Citing our work
+```
+@inproceedings{mou2024wildlife,
+  title={Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Related Product Sales Promotion Posts},
+  author={Mou, Guanyi and Yue, Yun and Lee, Kyumin and Zhang, Ziming},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={18},
+  pages={1096--1109},
+  year={2024}
+}
+```
 
 ## Folders
 ### Data
@@ -31,3 +43,4 @@ To run our code, please follow these steps:
 
 A more formatted data repository with extensive details are to be reveiled upon paper acceptance.
 All data and code provided in the repository are solely for research purpose. Do not share for commercial usage.
+
